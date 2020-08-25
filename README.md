@@ -19,6 +19,8 @@
 * Path (Guideline)
 * Onscreen Indicator for POI type = Objective and type = Marker
 
+[WIP Update Vide](https://www.youtube.com/watch?v=OZTtLzyMfiM)
+
 ### Other Preview
 * [Video 1](https://www.youtube.com/watch?v=-iRHs1XBp08)
 * [Video 2](https://www.youtube.com/watch?v=7O6KxIqhJAY)
